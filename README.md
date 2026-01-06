@@ -17,4 +17,4 @@ This project implements a modular embedded system on the TM4C123GH6PM microcontr
 ## Project Resources
 - 📄 Project Overview: `docs/Microcontroller Project Overview.pdf`
 - 📄 Project Code: `src/embedded-control-system.c`
-- 🎥 Demo Video: `demo/system_demo.mp4`
+- 🎥 Demo Video: `demo/README.md`
