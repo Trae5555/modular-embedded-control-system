@@ -15,6 +15,6 @@ This project implements a modular embedded system on the TM4C123GH6PM microcontr
 - GPIO-based bit-banged serial communication for DS1620
 
 ## Project Resources
-- 📄 Project Overview: `docs/Project_Overview.pdf`
+- 📄 Project Overview: `docs/Microcontroller Project Overview.pdf`
 - 📄 Project Code: `docs/DS1620_Technical_Report.pdf`
 - 🎥 Demo Video: `demo/system_demo.mp4`
